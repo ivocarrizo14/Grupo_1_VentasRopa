@@ -19,6 +19,9 @@ Donde vivo: Santiago Del Estero, capital.
 Extra: Me gusta escuchar música (aunque no cuando estudio, porque me desconcentra), ver películas y cocinar.
 
 -Ivo Carrizo:
+Edad: 30 años.
+Donde vivo: Santiago del Estero, Capital.
+Extra: Me gusta escuchar musica y jugar al futbol.
 
 -Cecilia Vanesa Castaño:
 Edad: 32 años.
@@ -33,3 +36,4 @@ Listado de referentes del mercado:
 - https://akualolechic.com/ : En este sitio podemos destacar lo intuitivo de su diseño lo que lo hace facil de navegar y utilizar.
 - https://www.lacoste.com/ar/ : Tomamos como referencia este sitio por sus funcionalidades mas completas ya que cuenta no solo con una bolsa de compras, sino tambien con lista de deseos, opciones de busquedas de locales, etc.
 - https://www.levi.com.ar/ : Aqui podemos tomar como referente el sitio ya que apunta a clientes jovenes tal como deseamos,y porque tiene una estetica atractiva para esa audiencia.
+- https://www.empirepadel.com.ar/ : Podemos destacar como figura en la parte superior en todo momento, no solamente en la pagina principal, las financiaciones para adquirir un producto.
